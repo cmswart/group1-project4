@@ -26,6 +26,8 @@ The presentation maintains audience interest. (5 points)
 Breakdown of Tasks
 
 - Project Ideation - ALL
+- Data Cleanup / Correlation Heat Map- Michelle 
+- Tableau Visualizations (Acme Introduction) - Michelle
 - Tableau Visualizations - Cassie 
 
 
