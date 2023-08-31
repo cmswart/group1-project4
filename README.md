@@ -23,6 +23,24 @@ Content, transitions, and conclusions flow smoothly within any time restrictions
 The content is relevant to the project. (10 points)
 The presentation maintains audience interest. (5 points)
 
+Questions we want to answer
+
+- Can we predict the starting salary of incoming employees?
+        - Department
+        - Age
+        - Gender
+- Can you use someone's age and projects completed to predict salary?
+- Satisfaction Rate (Clustering)
+         - Pitch idea to focus on certain employees that meet the criteria!
+         - What is contributing to the satisfaction rate?
+         - Possibly looking at certain countries or regions
+Is there a correlation between…
+         - Gender and Salary?
+         - Age and Salary?
+         - Productivity and Satisfaction Rate?
+         - Joining Date and Satisfaction Rate?
+
+
 Breakdown of Tasks
 
 - Project Ideation - ALL
