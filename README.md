@@ -47,6 +47,9 @@ Breakdown of Tasks
 - Data Cleanup / Correlation Heat Map- Michelle 
 - Tableau Visualizations (Acme Introduction) - Michelle
 - Tableau Visualizations - Cassie 
+- Machine Learning & Regression Model - Honoronie
+- Unsupervised Learning & Elbow Curve & Component Scatter Plots - Jordan
+- Presentation - ALL
 
 
 [Link to Cassie's Tableau Public](https://public.tableau.com/app/profile/cassie.mayer/viz/Project4wDash/Dashboard1?publish=yes)
