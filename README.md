@@ -47,7 +47,7 @@ Breakdown of Tasks
 - Data Cleanup / Correlation Heat Map- Michelle 
 - Tableau Visualizations (Acme Introduction) - Michelle
 - Tableau Visualizations - Cassie 
-- Machine Learning & Regression Model - Honoronie
+- Machine Learning & Regression Model - Honorine
 - Unsupervised Learning & Elbow Curve & Component Scatter Plots - Jordan
 - Presentation - ALL
 
