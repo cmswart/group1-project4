@@ -31,8 +31,12 @@ Breakdown of Tasks
 - Tableau Visualizations - Cassie 
 
 
-Link to Cassie's Tableau Public: https://public.tableau.com/app/profile/cassie.mayer/viz/Project4wDash/Dashboard1?publish=yes
+[Link to Cassie's Tableau Public](https://public.tableau.com/app/profile/cassie.mayer/viz/Project4wDash/Dashboard1?publish=yes)
 
-Presentation Link: https://docs.google.com/presentation/d/11cyWEHL2Gmxp4KT09B0hbcJM3gVSUFbc6CVdxJ2u6r8/edit?usp=sharing
+[Link to Michelle's Tableau (Main)](https://public.tableau.com/views/Project4_16929254745340/AcmeInc_Introduction?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+[Link to Michelle's Tableau (just Importances)](https://public.tableau.com/views/Project4importances/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+[Presentation Link](https://docs.google.com/presentation/d/11cyWEHL2Gmxp4KT09B0hbcJM3gVSUFbc6CVdxJ2u6r8/edit?usp=sharing)
 
 
